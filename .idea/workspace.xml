@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6efda9ca-f5d5-4850-96b0-e2862bc62994" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ljules&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ljules/exoKotAlgo&quot;,
+    &quot;accountId&quot;: &quot;e77b55a9-c491-4ad3-a0ae-1756b65051a2&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2XZIxSSht39CyoLIIuc5508a3Xj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.SUJ_01_a_ChercherLeMaxKt.executor": "Run",
+    "Kotlin.SUJ_01_b_TrouverValeurPremierKt.executor": "Run",
+    "Kotlin.SUJ_01_c_TrouverValeurDernierKt.executor": "Run",
+    "Kotlin.SUJ_01_d_NombreOccurrencesKt.executor": "Run",
+    "Kotlin.SUJ_04_e_TrouverGeneKt.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/HOME/ljules/Documents/01-TRAVAIL/02-ACTIVITES/60-SIO/01-DEV/02-Kotlin/07-EntrainementAlgo/algo - SANS CORRECTION",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\HOME\ljules\Documents\01-TRAVAIL\02-ACTIVITES\60-SIO\01-DEV\02-Kotlin\07-EntrainementAlgo\algo\src\main\kotlin\_04_Autres\_1_Sujets" />
+      <recent name="D:\HOME\ljules\Documents\01-TRAVAIL\02-ACTIVITES\60-SIO\01-DEV\02-Kotlin\07-EntrainementAlgo\algo\src\main\kotlin\_03_Manipulation_dans_une_liste\_1_Sujets" />
+      <recent name="D:\HOME\ljules\Documents\01-TRAVAIL\02-ACTIVITES\60-SIO\01-DEV\02-Kotlin\07-EntrainementAlgo\algo\src\main\kotlin\_02_Les_classiques\_1_Sujets" />
+      <recent name="D:\HOME\ljules\Documents\01-TRAVAIL\02-ACTIVITES\60-SIO\01-DEV\02-Kotlin\07-EntrainementAlgo\algo\src\main\kotlin\_04_Autres\_2_Correction" />
+      <recent name="D:\HOME\ljules\Documents\01-TRAVAIL\02-ACTIVITES\60-SIO\01-DEV\02-Kotlin\07-EntrainementAlgo\algo\src\main\kotlin\_01_Les_basiques\_1_Sujets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\HOME\ljules\Documents\01-TRAVAIL\02-ACTIVITES\60-SIO\01-DEV\02-Kotlin\07-EntrainementAlgo\algo\src\main\kotlin\_04_Autres\_1_Sujets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.SUJ_04_e_TrouverGeneKt">
+    <configuration name="COR_01_a_ChercherLeMaxKt" type="JetRunConfigurationType">
+      <option name="MAIN_CLASS_NAME" value="_01_Les_basiques._2_Corrections.COR_01_a_ChercherLeMaxKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="COR_01_b_TrouverValeurPremierKt" type="JetRunConfigurationType">
+      <option name="MAIN_CLASS_NAME" value="_01_Les_basiques._2_Corrections.COR_01_b_TrouverValeurPremierKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="COR_01_c_TrouverValeurDernierKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_Les_basiques._2_Corrections.COR_01_c_TrouverValeurDernierKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="COR_01_d_NombreOccurrencesKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_Les_basiques._2_Corrections.COR_01_d_NombreOccurrencesKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="COR_01_e_MoyennePondereeKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_Les_basiques._2_Corrections.COR_01_e_MoyennePondereeKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="COR_02_a_RechercheDichotomiqueKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02_Les_classiques._2_Corrections.COR_02_a_RechercheDichotomiqueKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="COR_02_b_TriParSelectionKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02_Les_classiques._2_Corrections.COR_02_b_TriParSelectionKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="COR_03_a_SupprimerDoublonsKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_Manipulation_dans_une_liste._2_Corrections.COR_03_a_SupprimerDoublonsKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="COR_03_b_InverserListeKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_Manipulation_dans_une_liste._2_Corrections.COR_03_b_InverserListeKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="COR_03_c_ZeroGaucheUnDroitKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_Manipulation_dans_une_liste._2_Corrections.COR_03_c_ZeroGaucheUnDroitKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="COR_04_a_MapDesOccurrencesKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04_Autres._2_Correction.COR_04_a_MapDesOccurrencesKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="COR_04_b_AlgoGlouton_RenduMonnaieKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04_Autres._2_Correction.COR_04_b_AlgoGlouton_RenduMonnaieKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="COR_04_c_ChiffrerCesarKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04_Autres._2_Correction.COR_04_c_ChiffrerCesarKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="COR_04_d_EstPalindromeKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04_Autres._2_Correction.COR_04_d_EstPalindromeKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="COR_04_e_TrouverGeneKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04_Autres._2_Correction.COR_04_e_TrouverGeneKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SUJ_01_a_ChercherLeMaxKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_Les_basiques._1_Sujets.SUJ_01_a_ChercherLeMaxKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SUJ_01_b_TrouverValeurPremierKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_Les_basiques._1_Sujets.SUJ_01_b_TrouverValeurPremierKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SUJ_01_c_TrouverValeurDernierKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_Les_basiques._1_Sujets.SUJ_01_c_TrouverValeurDernierKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SUJ_01_d_NombreOccurrencesKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_Les_basiques._1_Sujets.SUJ_01_d_NombreOccurrencesKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SUJ_01_e_MoyennePondereeKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_Les_basiques._1_Sujets.SUJ_01_e_MoyennePondereeKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SUJ_02_a_RechercheDichotomiqueKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02_Les_classiques._1_Sujets.SUJ_02_a_RechercheDichotomiqueKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SUJ_02_b_TriParSelectionKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02_Les_classiques._1_Sujets.SUJ_02_b_TriParSelectionKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SUJ_03_a_SupprimerDoublonsKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_Manipulation_dans_une_liste._1_Sujets.SUJ_03_a_SupprimerDoublonsKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SUJ_03_b_InverserListeKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_Manipulation_dans_une_liste._1_Sujets.SUJ_03_b_InverserListeKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SUJ_03_c_ZeroGaucheUnDroitKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_Manipulation_dans_une_liste._1_Sujets.SUJ_03_c_ZeroGaucheUnDroitKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SUJ_04_a_MapDesOccurrencesKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04_Autres._1_Sujets.SUJ_04_a_MapDesOccurrencesKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SUJ_04_b_AlgoGlouton_RenduMonnaieKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04_Autres._1_Sujets.SUJ_04_b_AlgoGlouton_RenduMonnaieKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SUJ_04_c_ChiffrerCesarKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04_Autres._1_Sujets.SUJ_04_c_ChiffrerCesarKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SUJ_04_d_EstPalindromeKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04_Autres._1_Sujets.SUJ_04_d_EstPalindromeKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SUJ_04_e_TrouverGeneKt" type="JetRunConfigurationType" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_04_Autres._1_Sujets.SUJ_04_e_TrouverGeneKt" />
+      <module name="algo" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.COR_01_a_ChercherLeMaxKt" />
+      <item itemvalue="Kotlin.COR_01_b_TrouverValeurPremierKt" />
+      <item itemvalue="Kotlin.COR_01_c_TrouverValeurDernierKt" />
+      <item itemvalue="Kotlin.COR_01_d_NombreOccurrencesKt" />
+      <item itemvalue="Kotlin.COR_01_e_MoyennePondereeKt" />
+      <item itemvalue="Kotlin.COR_02_a_RechercheDichotomiqueKt" />
+      <item itemvalue="Kotlin.COR_02_b_TriParSelectionKt" />
+      <item itemvalue="Kotlin.COR_03_a_SupprimerDoublonsKt" />
+      <item itemvalue="Kotlin.COR_03_b_InverserListeKt" />
+      <item itemvalue="Kotlin.COR_03_c_ZeroGaucheUnDroitKt" />
+      <item itemvalue="Kotlin.COR_04_a_MapDesOccurrencesKt" />
+      <item itemvalue="Kotlin.COR_04_b_AlgoGlouton_RenduMonnaieKt" />
+      <item itemvalue="Kotlin.COR_04_c_ChiffrerCesarKt" />
+      <item itemvalue="Kotlin.COR_04_d_EstPalindromeKt" />
+      <item itemvalue="Kotlin.COR_04_e_TrouverGeneKt" />
+      <item itemvalue="Kotlin.SUJ_01_a_ChercherLeMaxKt" />
+      <item itemvalue="Kotlin.SUJ_01_b_TrouverValeurPremierKt" />
+      <item itemvalue="Kotlin.SUJ_01_c_TrouverValeurDernierKt" />
+      <item itemvalue="Kotlin.SUJ_01_d_NombreOccurrencesKt" />
+      <item itemvalue="Kotlin.SUJ_01_e_MoyennePondereeKt" />
+      <item itemvalue="Kotlin.SUJ_02_a_RechercheDichotomiqueKt" />
+      <item itemvalue="Kotlin.SUJ_02_b_TriParSelectionKt" />
+      <item itemvalue="Kotlin.SUJ_03_a_SupprimerDoublonsKt" />
+      <item itemvalue="Kotlin.SUJ_03_b_InverserListeKt" />
+      <item itemvalue="Kotlin.SUJ_03_c_ZeroGaucheUnDroitKt" />
+      <item itemvalue="Kotlin.SUJ_04_a_MapDesOccurrencesKt" />
+      <item itemvalue="Kotlin.SUJ_04_b_AlgoGlouton_RenduMonnaieKt" />
+      <item itemvalue="Kotlin.SUJ_04_c_ChiffrerCesarKt" />
+      <item itemvalue="Kotlin.SUJ_04_d_EstPalindromeKt" />
+      <item itemvalue="Kotlin.SUJ_04_e_TrouverGeneKt" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6efda9ca-f5d5-4850-96b0-e2862bc62994" name="Changes" comment="" />
+      <created>1698830424234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698830424234</updated>
+      <workItem from="1698830425280" duration="118000" />
+      <workItem from="1698830561199" duration="5028000" />
+      <workItem from="1699180685683" duration="732000" />
+      <workItem from="1699350180429" duration="2524000" />
+      <workItem from="1700552305462" duration="9307000" />
+      <workItem from="1700662112796" duration="29000" />
+      <workItem from="1726072179051" duration="5786000" />
+      <workItem from="1726083256969" duration="1142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
