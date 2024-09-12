@@ -18,7 +18,11 @@ import _10_Demos_et_tests.testerEnLot
  */
 fun nombreOccurrences(target: Int, list: List<Int>): Int {
     var count = 0
-    // A COMPLETER ICI
+    for (i in list.indices){
+        if (list[i] == target){
+            count ++
+        }
+    }
     return count
 }
 

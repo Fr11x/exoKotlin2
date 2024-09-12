@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6efda9ca-f5d5-4850-96b0-e2862bc62994" name="Changes" comment="" />
+    <list default="true" id="6efda9ca-f5d5-4850-96b0-e2862bc62994" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_a_ChercherLeMax.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_a_ChercherLeMax.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_b_TrouverValeurPremier.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_b_TrouverValeurPremier.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_c_TrouverValeurDernier.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_c_TrouverValeurDernier.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_d_NombreOccurrences.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_d_NombreOccurrences.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_e_MoyennePonderee.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_e_MoyennePonderee.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_02_Les_classiques/_1_Sujets/SUJ_02_a_RechercheDichotomique.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_02_Les_classiques/_1_Sujets/SUJ_02_a_RechercheDichotomique.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/_02_Les_classiques/_1_Sujets/SUJ_02_b_TriParSelection.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/_02_Les_classiques/_1_Sujets/SUJ_02_b_TriParSelection.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,8 +34,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/ljules/exoKotAlgo&quot;,
-    &quot;accountId&quot;: &quot;e77b55a9-c491-4ad3-a0ae-1756b65051a2&quot;
+    &quot;url&quot;: &quot;https://github.com/Fr11x/exoKotlin2.git&quot;,
+    &quot;accountId&quot;: &quot;bf1b35cc-31c7-401d-855a-4e1cb35b4292&quot;
   }
 }</component>
   <component name="MarkdownSettingsMigration">
@@ -47,13 +57,15 @@
     "Kotlin.SUJ_01_b_TrouverValeurPremierKt.executor": "Run",
     "Kotlin.SUJ_01_c_TrouverValeurDernierKt.executor": "Run",
     "Kotlin.SUJ_01_d_NombreOccurrencesKt.executor": "Run",
+    "Kotlin.SUJ_01_e_MoyennePondereeKt.executor": "Run",
+    "Kotlin.SUJ_02_b_TriParSelectionKt.executor": "Run",
     "Kotlin.SUJ_04_e_TrouverGeneKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/HOME/ljules/Documents/01-TRAVAIL/02-ACTIVITES/60-SIO/01-DEV/02-Kotlin/07-EntrainementAlgo/algo - SANS CORRECTION",
+    "last_opened_file_path": "/home/sio/travail/exoKotAlgoSansCor",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,7 +90,7 @@
       <recent name="D:\HOME\ljules\Documents\01-TRAVAIL\02-ACTIVITES\60-SIO\01-DEV\02-Kotlin\07-EntrainementAlgo\algo\src\main\kotlin\_04_Autres\_1_Sujets" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SUJ_04_e_TrouverGeneKt">
+  <component name="RunManager" selected="Kotlin.SUJ_02_b_TriParSelectionKt">
     <configuration name="COR_01_a_ChercherLeMaxKt" type="JetRunConfigurationType">
       <option name="MAIN_CLASS_NAME" value="_01_Les_basiques._2_Corrections.COR_01_a_ChercherLeMaxKt" />
       <module name="algo" />
@@ -385,8 +397,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
-        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
       </set>
     </attachedChunks>
   </component>
@@ -406,6 +418,8 @@
       <workItem from="1700662112796" duration="29000" />
       <workItem from="1726072179051" duration="5786000" />
       <workItem from="1726083256969" duration="1142000" />
+      <workItem from="1726125003015" duration="126000" />
+      <workItem from="1726125139933" duration="8853000" />
     </task>
     <servers />
   </component>
@@ -422,5 +436,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/_01_Les_basiques/_1_Sujets/SUJ_01_c_TrouverValeurDernier.kt</url>
+          <line>43</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
