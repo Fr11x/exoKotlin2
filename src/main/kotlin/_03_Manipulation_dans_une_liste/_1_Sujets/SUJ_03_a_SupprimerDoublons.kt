@@ -21,8 +21,20 @@ fun supprimerDoublons(liste: List<Int>): MutableList<Int> {
     // Copie de la liste :
     val listeCopie = liste.toMutableList()
 
-    // A COMPLETER ICI
 
+    for (v in liste){
+        var nombreDeV= listeCopie.count { it->it==v }
+        repeat(nombreDeV-1){
+            listeCopie.removeAt(listeCopie.lastIndexOf(v))
+        }
+        //Est ce que le premer index de v est différent du dernier index de v
+     /*if( listeCopie.indexOf(v) != listeCopie.lastIndexOf(v))
+     {
+         // On enleve la dernière ocurence de v
+         listeCopie.removeAt(listeCopie.lastIndexOf(v))
+     }*/
+    }
+    println(listeCopie)
     return listeCopie
 }
 
