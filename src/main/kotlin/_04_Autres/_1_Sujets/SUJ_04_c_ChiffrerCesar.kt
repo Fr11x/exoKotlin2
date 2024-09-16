@@ -20,8 +20,18 @@ import _10_Demos_et_tests.testerEnLot
 fun chiffrerCesar(cle: Int, message: String): String {
     var messageCesar = ""
 
-    // A COMPLETER ICI
+    val alphabet = ('a'..'z').toList()
+    for (char in message) {
+        if(char.isLetter()){
+            val newIndex = (alphabet.indexOf(char.toLowerCase()) + cle) % 26
+            if(char.isUpperCase()) messageCesar += alphabet[newIndex].toUpperCase() else messageCesar += alphabet[newIndex]
+        }
+        else{
+            messageCesar += char
+        }
 
+    }
+    println(messageCesar)
     return messageCesar
 }
 
@@ -39,6 +49,6 @@ val listDataTests_04c = listOf(dataTest01_04c , dataTest02_04c)
    --------------------------------*/
 
 fun main() {
-    testerEnLot(listDataTests_04c)
     demoEnLot(listDataTests_04c)
+    testerEnLot(listDataTests_04c)
 }
